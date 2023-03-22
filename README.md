@@ -9,7 +9,7 @@ Project Plan
 6. Recent Developments: Discuss recent developments in the field of graph isomorphism, such as the discovery of a subexponential-time algorithm for the problem and the implications of this discovery for the field.
 7. Conclusion: Summarize the main points of the project and highlight the significance of the Graph Isomorphism Problem for computer science and mathematics.
 
-As for planning out the project, here is a possible structure you could use:
+Plan of the project:
 
 1. Introduction
     - Explain the problem and its significance
